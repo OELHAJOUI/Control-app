@@ -1,1 +1,1 @@
-stop_application
+start_application 
